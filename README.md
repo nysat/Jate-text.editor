@@ -1,4 +1,4 @@
-## 19 Progressive Web Applications (PWA) : Text Editor
+## 19 Progressive Web Applications (PWA) :  Jate Text Editor
 
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
