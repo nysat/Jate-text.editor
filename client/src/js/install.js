@@ -9,7 +9,6 @@ window.addEventListener('beforeinstallprompt', (event) => {
     window.deferredPrompt = event;
     // Show the install button
     butInstall.style.display = 'block';
-
 });
 
 // TODO: Implement a click event handler on the `butInstall` element
